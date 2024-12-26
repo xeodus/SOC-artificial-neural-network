@@ -11,6 +11,7 @@ num_trials = 1000
 potential_range = [0.0, 1.0]
 df = pd.DataFrame(columns=['system size', 'trials', 'activated node percentage'])
 
+# Simulation
 for n in system_size:
     trial_results = []
     for trials in range(num_trials):
