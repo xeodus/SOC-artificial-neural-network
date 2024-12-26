@@ -30,8 +30,8 @@ for n in system_size:
     trial_results.append(percentage_activated)
     avg_percentage_activated = sum(trial_results) / len(trial_results)
     
-    print(f'Percentage of activated nodes for trial {trials + 1} in system size {n}: {percentage_activated:.2f}%')
+print(f'Percentage of activated nodes for trial {trials + 1} in system size {n}: {percentage_activated:.2f}%')
 
-    df = pd.concat([df, pd.DataFrame({'system size': [n], 'trials': [trials], 'activated node percentage': [percentage_activated]})], ignore_index=True)
-    df.to_csv('activation_results.csv', index=False)
-    print("Data successfully saved to 'activation_results.csv'")
+df = pd.concat([df, pd.DataFrame({'system size': [n], 'trials': [trials], 'activated node percentage': [percentage_activated]})], ignore_index=True)
+df.to_csv('activation_results.csv', index=False)
+print("Data successfully saved to 'activation_results.csv'")
