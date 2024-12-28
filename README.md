@@ -8,7 +8,11 @@ The first passage probability, F(r, t), represents the probability that a random
 
 # FP process analogy to the neural network 
 In artificial neural networks, we have neurons connected to each other that transmits information from one neuron to another. Now, if the potential of the network or the neuron in question crosses a specific potential threshold then it fires, i.e., all the neurons in the network starts firing. Now, if we restrict our focus to one synaptic end and consider rest of the network on both the sides as two blocks, then we will calculate the typical time for the network potential to cross that the threshold value, i.e., first passage time. 
-Now, we restrict our focus to the synaptic ends of the neural network. We have an n-n connection between receptors and transmitters at these synaptic ends. To study this interaction picture, we implement this molecular dynamics simulation. We can initialize those receptors and transmitters using the random number generator and then use the MD simulation to establish the interaction picture. We want to examine how good of a neural network we can create if we implement these ideas from non-equilibrium statistical physics. We want to investigate whether these techniques enhance computational power or time efficiency. So, from a physicist's point of view, this is a great adventure for our intuitions and existing empirical models to extrapolate in these domains.
+
+Now, we restrict our focus to the synaptic ends of the neural network. We have an n-n connection between receptors and transmitters at these synaptic ends. To study this interaction picture, we implement this molecular dynamics simulation. We can initialize those receptors and transmitters using the random number generator and then use the MD simulation to establish the interaction picture. 
+
+We want to examine how good of a neural network we can create if we implement these ideas from non-equilibrium statistical physics. We want to investigate whether these techniques enhance computational power or time efficiency. So, from a physicist's point of view, this is a great adventure for our intuitions and existing empirical models to extrapolate in these domains.
+
 So, this is how we are integrating the idea of FP process into the neural network.
 
 # Findings and yields
