@@ -109,3 +109,5 @@ Applying FP and occupation probabilities to model and predict neural behavior, o
 ## Conclusion
 
 This project demonstrates the potential of integrating first passage processes into artificial neural networks. By bridging statistical physics and ANN modeling, it opens new pathways for improving computational frameworks and gaining deeper insights into neuron activation dynamics. This innovative approach promises advancements in both theoretical understanding and practical applications of neural networks.
+
+---
