@@ -1,6 +1,3 @@
-Here’s a revised professional README based on the details you've provided, maintaining all the topics and explanations for a clear and comprehensive presentation:
-
----
 
 # Self-Organized Criticality in Artificial Neural Networks
 
@@ -112,7 +109,3 @@ Applying FP and occupation probabilities to model and predict neural behavior, o
 ## Conclusion
 
 This project demonstrates the potential of integrating first passage processes into artificial neural networks. By bridging statistical physics and ANN modeling, it opens new pathways for improving computational frameworks and gaining deeper insights into neuron activation dynamics. This innovative approach promises advancements in both theoretical understanding and practical applications of neural networks.
-
----
-
-Let me know if you'd like further refinements!
