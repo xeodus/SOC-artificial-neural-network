@@ -55,7 +55,7 @@ G, s = initialize_graph(n,k)
 energy_over_time, s = run_SOC(G,s,num_iteration,k)
 
 ### Plots
-plt.figure(figsize=(12,6))
+plt.figure(figsize=(8,6))
 num_iteration, energies = zip(*energy_over_time)
 plt.plot(num_iteration, energies, color='blue', linestyle='-', marker='o')
 plt.xlabel('Iteration')
