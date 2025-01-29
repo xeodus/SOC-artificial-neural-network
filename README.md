@@ -68,32 +68,11 @@ Synaptic ends in the network, comprising receptors and transmitters, can be mode
 
 ---
 
-## Methods and Techniques
-
-### Statistical Modeling
-
-Advanced statistical frameworks are applied to model FP processes and their integration into neural networks, focusing on non-equilibrium dynamics and stochastic interactions.
-
-### Data Analysis and Visualization
-
-Leveraging modern tools to analyze and visualize activation patterns, potential thresholds, and cascade effects in neural networks.
-
-### Analytical Problem-Solving
-
-Utilizing stochastic models and statistical physics principles to solve neural network challenges and enhance computational efficiency.
-
-### Probability Theory
-
-Applying FP and occupation probabilities to model and predict neural behavior, optimizing network performance.
-
----
-
 ## Technology Stack
 
-- **Python**: Core programming language for modeling and simulations.
-- **NumPy** and **SciPy**: Libraries for numerical and scientific computing.
-- **Matplotlib** and **Seaborn**: Visualization tools for presenting data insights.
-- **Molecular Dynamics Simulators**: Frameworks for simulating synaptic interactions.
+- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) **Python**: Core programming language for modeling and simulations.
+- ![NumPy](https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg) **NumPy** and ![SciPy](https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg) **SciPy**: Libraries for numerical and scientific computing.
+- ![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg) **Matplotlib** and ![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg) **Seaborn**: Visualization tools for presenting data insights.
 
 ---
 
