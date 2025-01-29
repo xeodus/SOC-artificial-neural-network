@@ -15,14 +15,9 @@ This project pioneers a novel intersection of statistical physics and artificial
 3. [First Passage Process Analogy in Neural Networks](#first-passage-process-analogy-in-neural-networks)
     - [Threshold Dynamics in ANNs](#threshold-dynamics-in-anns)
     - [Synaptic Interaction Simulations](#synaptic-interaction-simulations)
-4. [Methods and Techniques](#methods-and-techniques)
-    - [Statistical Modeling](#statistical-modeling)
-    - [Data Analysis and Visualization](#data-analysis-and-visualization)
-    - [Analytical Problem-Solving](#analytical-problem-solving)
-    - [Probability Theory](#probability-theory)
-5. [Technology Stack](#technology-stack)
-6. [Findings and Outcomes](#findings-and-outcomes)
-7. [Conclusion](#conclusion)
+4. [Technology Stack](#technology-stack)
+5. [Findings and Outcomes](#findings-and-outcomes)
+6. [Conclusion](#conclusion)
 
 ---
 
