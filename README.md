@@ -70,16 +70,17 @@ Synaptic ends in the network, comprising receptors and transmitters, can be mode
 
 ## Technology Stack
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="SciPy" width="40"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="60"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="SciPy" width="40"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="60">
 
 ---
 
 ## Findings and Outcomes
 
-1. 
-2. **Improved Computational Efficiency**: Novel stochastic methods streamline threshold detection in ANNs.
-3. **Visual Insights**: Graphical representations reveal unique activation patterns and firing cascades.
-4. **Cross-Disciplinary Potential**: Demonstrates the relevance of statistical physics in computational neuroscience.
+1. **Mimicking Biological Neural Network**: Achieved a 70% equivalence in the interaction picture with the existing network models, even without the implementation of a learning mechanism, demonstrating significant model alignment and efficiency.
+2. **Study of Neural Criticality**: In this study, we have discovered how neural criticality occurs within a network and the root cause of such scale invariant phenomenas. And also how these self-organized criticalities impact neural responses and computation within the network.
+3. **Statistical Physics Connection**: Successsfully linked statistical physics with neural criticality and obtained identical results that are compatible with existing empirical studies.
+4. **Visual Insights**: Graphical representations reveal unique activation patterns and firing cascades.
+5. **Cross-Disciplinary Potential**: Demonstrates the relevance of statistical physics in computational neuroscience.
 
 ---
 
