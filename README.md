@@ -65,11 +65,10 @@ Synaptic ends in the network, comprising receptors and transmitters, can be mode
 
 ## Technology Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-0096D6?style=for-the-badge&logo=seaborn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C8EBB?style=flat&logo=pandas&logoColor=white&labelColor=0277BD)
+![NumPy](https://img.shields.io/badge/NumPy-3366CC?style=flat&logo=numpy&logoColor=white&labelColor=0044AA)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-DD4B39?style=flat&logo=python&logoColor=white&labelColor=C62828)
+![Seaborn](https://img.shields.io/badge/Seaborn-FF9800?style=flat&logo=python&logoColor=white&labelColor=E65100)
 
 ---
 
