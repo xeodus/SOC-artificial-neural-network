@@ -41,8 +41,8 @@ First passage processes analyze the probabilities and time scales for a stochast
 
 ### Key Metrics: First Passage and Occupation Probability
 
-1. **First Passage Probability (F(r, t))**: Measures the likelihood that a system reaches a defined state for the first time at a given moment.
-2. **Occupation Probability (P(r, t))**: Represents the likelihood of the system being in a specific state at any given time.
+- **First Passage Probability (F(r, t))**: Measures the likelihood that a system reaches a defined state for the first time at a given moment.
+-  **Occupation Probability (P(r, t))**: Represents the likelihood of the system being in a specific state at any given time.
 
 These metrics are critical for understanding dynamic behaviors and activation patterns.
 
@@ -74,11 +74,11 @@ Synaptic ends in the network, comprising receptors and transmitters, can be mode
 
 ## Findings and Outcomes
 
-1. **Mimicking Biological Neural Network**: Achieved a 70% equivalence in the interaction picture with the existing network models, even without the implementation of a learning mechanism, demonstrating significant model alignment and efficiency.
-2. **Study of Neural Criticality**: In this study, we have discovered how neural criticality occurs within a network and the root cause of such scale invariant phenomenas. And also how these self-organized criticalities impact neural responses and computation within the network.
-3. **Statistical Physics Connection**: Successsfully linked statistical physics with neural criticality and obtained identical results that are compatible with existing empirical studies.
-4. **Visual Insights**: Graphical representations reveal unique activation patterns and firing cascades.
-5. **Cross-Disciplinary Potential**: Demonstrates the relevance of statistical physics in computational neuroscience.
+- **Mimicking Biological Neural Network**: Achieved a 70% equivalence in the interaction picture with the existing network models, even without the implementation of a learning mechanism, demonstrating significant model alignment and efficiency.
+- **Study of Neural Criticality**: In this study, we have discovered how neural criticality occurs within a network and the root cause of such scale invariant phenomenas. And also how these self-organized criticalities impact neural responses and computation within the network.
+- **Statistical Physics Connection**: Successsfully linked statistical physics with neural criticality and obtained identical results that are compatible with existing empirical studies.
+- **Visual Insights**: Graphical representations reveal unique activation patterns and firing cascades.
+- **Cross-Disciplinary Potential**: Demonstrates the relevance of statistical physics in computational neuroscience.
 
 ---
 
