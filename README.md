@@ -5,6 +5,16 @@ This project pioneers a novel intersection of statistical physics and artificial
 
 ---
 
+## Technology Stack
+
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-2C8EBB?style=flat&logo=pandas&logoColor=white&labelColor=0277BD)
+![NumPy](https://img.shields.io/badge/NumPy-3366CC?style=flat&logo=numpy&logoColor=white&labelColor=0044AA)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-DD4B39?style=flat&logo=python&logoColor=white&labelColor=C62828)
+![Seaborn](https://img.shields.io/badge/Seaborn-FF9800?style=flat&logo=python&logoColor=white&labelColor=E65100)
+
+---
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -60,15 +70,6 @@ Synaptic ends in the network, comprising receptors and transmitters, can be mode
 - **Initialization**: Randomizing receptor and transmitter states.
 - **Simulation**: Applying MD techniques to explore interactions and threshold dynamics.
 - **Analysis**: Investigating the resulting neural activation patterns and computational efficiency.
-
----
-
-## Technology Stack
-
-![Pandas](https://img.shields.io/badge/Pandas-2C8EBB?style=flat&logo=pandas&logoColor=white&labelColor=0277BD)
-![NumPy](https://img.shields.io/badge/NumPy-3366CC?style=flat&logo=numpy&logoColor=white&labelColor=0044AA)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-DD4B39?style=flat&logo=python&logoColor=white&labelColor=C62828)
-![Seaborn](https://img.shields.io/badge/Seaborn-FF9800?style=flat&logo=python&logoColor=white&labelColor=E65100)
 
 ---
 
