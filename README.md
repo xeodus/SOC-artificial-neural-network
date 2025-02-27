@@ -3,10 +3,6 @@
 
 This project pioneers a novel intersection of statistical physics and artificial neural networks (ANNs), inspired by first passage (FP) processes and brain-like mechanisms. By leveraging advanced stochastic frameworks and molecular dynamics simulations, it explores the threshold dynamics of neuron activation and signal transmission in ANNs. This integration introduces a revolutionary paradigm for improving computational efficiency and understanding activation dynamics.
 
----
-
-## Technology Stack
-
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-2C8EBB?style=flat&logo=pandas&logoColor=white&labelColor=0277BD)
 ![NumPy](https://img.shields.io/badge/NumPy-3366CC?style=flat&logo=numpy&logoColor=white&labelColor=0044AA)
