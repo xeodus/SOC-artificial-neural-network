@@ -1,8 +1,6 @@
 
 # Self-Organized Criticality in Artificial Neural Networks
 
-This project pioneers a novel intersection of statistical physics and artificial neural networks (ANNs), inspired by first passage (FP) processes and brain-like mechanisms. By leveraging advanced stochastic frameworks and molecular dynamics simulations, it explores the threshold dynamics of neuron activation and signal transmission in ANNs. This integration introduces a revolutionary paradigm for improving computational efficiency and understanding activation dynamics.
-
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-2C8EBB?style=flat&logo=pandas&logoColor=white&labelColor=0277BD)
 ![NumPy](https://img.shields.io/badge/NumPy-3366CC?style=flat&logo=numpy&logoColor=white&labelColor=0044AA)
@@ -10,6 +8,7 @@ This project pioneers a novel intersection of statistical physics and artificial
 ![Seaborn](https://img.shields.io/badge/Seaborn-FF9800?style=flat&logo=python&logoColor=white&labelColor=E65100)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
+This project pioneers a novel intersection of statistical physics and artificial neural networks (ANNs), inspired by first passage (FP) processes and brain-like mechanisms. By leveraging advanced stochastic frameworks and molecular dynamics simulations, it explores the threshold dynamics of neuron activation and signal transmission in ANNs. This integration introduces a revolutionary paradigm for improving computational efficiency and understanding activation dynamics.
 ---
 
 ## Table of Contents
