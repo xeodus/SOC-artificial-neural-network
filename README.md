@@ -12,6 +12,7 @@ This project pioneers a novel intersection of statistical physics and artificial
 ![NumPy](https://img.shields.io/badge/NumPy-3366CC?style=flat&logo=numpy&logoColor=white&labelColor=0044AA)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-DD4B39?style=flat&logo=python&logoColor=white&labelColor=C62828)
 ![Seaborn](https://img.shields.io/badge/Seaborn-FF9800?style=flat&logo=python&logoColor=white&labelColor=E65100)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
 
